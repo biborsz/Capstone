@@ -21,6 +21,10 @@ Source:
 https://fedbidspeed.com/cracking-the-code/
 http://acqnotes.com/acqnote/tasks/sole-soure-justification-and-approval
 https://www.targetgov.com/wp-content/uploads/2015/03/GloriaLarkin_Why-and-How-to-Use-SourcesSought_TargetGov.pdf
+https://developers.google.com/machine-learning/recommendation/content-based/basics
+https://www.offerzen.com/blog/how-to-build-a-content-based-recommender-system-for-your-product
+https://www.kdnuggets.com/2019/11/content-based-recommender-using-natural-language-processing-nlp.html
+https://scikit-learn.org/stable/modules/metrics.html
 
 Type of Set Aside:
  - the proportion of the acquisition set aside for small businesses
