@@ -18,6 +18,8 @@ contracting and subcontracting opportunities." (fedbidspeed.com)
     
     
 Source:
+https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d#da9f
+https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html#sphx-glr-auto-examples-tutorials-run-doc2vec-lee-py
 https://fedbidspeed.com/cracking-the-code/
 http://acqnotes.com/acqnote/tasks/sole-soure-justification-and-approval
 https://www.targetgov.com/wp-content/uploads/2015/03/GloriaLarkin_Why-and-How-to-Use-SourcesSought_TargetGov.pdf

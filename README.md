@@ -21,17 +21,17 @@ One of the challenges of building such a system is the difficulty of getting suf
 
 ## Table of Contents
 ##### Notebooks
-    - [Data Collection](001_dataGathering.ipynb)
-    - [EDA](002_EDA.ipynb)
-    - [Text Preprocessing](005_gensim_topicmodeling.ipynb)
-    - [Recommender - Tf-Idf Vectorizer](004_recommender.ipynb)
-    - [Recommender - Doc2Vec](006_doc2vec.ipynb)
+  [Data Collection](001_dataGathering.ipynb)<br>
+  [EDA](002_EDA.ipynb)<br>
+  [Text Preprocessing](005_gensim_topicmodeling.ipynb)<br>
+  [Recommender - Tf-Idf Vectorizer](004_recommender.ipynb)<br>
+  [Recommender - Doc2Vec](006_doc2vec.ipynb)
     
 ##### Data
-    - [Contract Notifications](https://drive.google.com/file/d/11yVkQKdPVIzUTCcrFdDiNEQk1kC4gFUl/view?usp=sharing)
-    - [Tokenized Titles](https://drive.google.com/file/d/1AsKKAohC4Qc6S3GrdWEA64qF6lOvZkrh/view?usp=sharing)
+  [Contract Notifications](https://drive.google.com/file/d/11yVkQKdPVIzUTCcrFdDiNEQk1kC4gFUl/view?usp=sharing)<br>
+  [Tokenized Titles](https://drive.google.com/file/d/1AsKKAohC4Qc6S3GrdWEA64qF6lOvZkrh/view?usp=sharing)
 
 ##### Other
-    - [Trained Doc2Vec Model](doc2vec_model)
-    - [Notes](Notes.txt)
+  [Trained Doc2Vec Model](doc2vec_model)<br>
+  [Notes](Notes.txt)
     
