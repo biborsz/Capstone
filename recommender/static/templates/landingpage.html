@@ -1,0 +1,47 @@
+<!-- static/templates/showresults.html -->
+<h1>Federal Contract Opportunities</h1>
+
+<h2>Search Opportunities</h2>
+
+<form action="/c_opportunities/search_results/" method="get">
+    <!-- {% csrf_token %} -->
+    {{ form }}
+    <input type="submit" value="Submit">
+</form>
+
+<h2>Recent Opportunities</h2>
+<table>
+  {% for index, row in  matches.iterrows %}
+  <tr>
+    <td> <a href="/c_opportunities/similar_results/?base_document_idx={{index}}">{{ row.cleaned_titles }}</a>
+      </td>
+      <td><a href="{{ row.uiLink }}" target="_blank">Details</a>
+      </td>
+  </tr>
+  {% endfor %}
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <html>
+<body>
+  <center>
+    <form action="showresults">
+    <input type="text" name="searchterm" value="{{ searchterm }}">
+    <input type="submit">
+    </form>
+  </center>
+
+  <br/>
+  The search term was: {{ searchterm }}
+</body>
+</html> -->

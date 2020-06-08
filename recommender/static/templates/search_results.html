@@ -1,0 +1,12 @@
+<h2>Find similar documents</h2>
+
+<table>
+  {% for index, row in  matches.iterrows %}
+  <tr>
+    <td> <a href="/c_opportunities/similar_results/?base_document_idx={{index}}">{{ row.cleaned_titles }}</a>
+      </td>
+      <td><a href="{{ row.uiLink }}" target="_blank">Details</a>
+      </td>
+  </tr>
+  {% endfor %}
+</table>

@@ -7,7 +7,7 @@ Fedbizopps.gov used to be a website where small businesses could search for fede
 ## Executive Summary
 
 #### The purpose of this project:
-1. Stretching the limits of natural language processing, build an application that, based on user up- or downvote would recommend contract notifications of interest.
+1. Stretching the limits of natural language processing, build an application that, based on topic similarities would recommend contract notifications of interest.
 2. Observe how well a content based recommender system is capable of finding not only similar but also relevant notifications.
 
 #### Data:
