@@ -61,7 +61,7 @@ def most_similar(base_document_idx, n):
        returns similar documents
        as pandas dataframe"""
     # load saved doc2vec_model
-    model = Doc2Vec.load('/Users/bibor/General_Assembly/DSI/Capstone/doc2vec_titles')
+    model = Doc2Vec.load('/Users/bibor/General_Assembly/DSI/Capstone/models/doc2vec_titles')
     # get similar topics
     similars = model.docvecs.most_similar(base_document_idx, topn=n)
 

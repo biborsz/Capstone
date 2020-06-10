@@ -1,49 +1,26 @@
-Dictionary
-    Combined Synopsis/Solicitation = "This is a real, live, actual deal. Most opportunities classified this way are going to actually happen. All of these should include specifications for the product or service and a due date for the proposal. A “Combined” means the agency is expecting a proposal or quote from you."
+Sources 
     
-    Award Notice = a notice that someone got the contract
-    
-    Solicitation = information about an opportunity, asking for applications
-    
-    Presolicitation = it often means that the real solicitation isn't released yet, or it can mean RFI = "Request for Information"
-    
-    Sources Sought Notice = is a solicitation from the governmental agencies for interest (evaluation of interest) --> when an agency tries to determine if there are small businesses to fulfill a contract, and what are the financial capabilities of those businesses - so it would be able to determine if the contract could be set aside for small businesses 
-    "The primary purposes of the notice are to improve small business access to acquisition information and enhance competition by identifying
-contracting and subcontracting opportunities." (fedbidspeed.com)
-        the notice asks businesses to identify themselves
-   
-    Special Notice = can be a lot of things... often that there is a soliciation coming, or that someone already got the contract, it can even be a combined synopsis/ solicitation ==> need the content to figure this one out
-    
-    Justification = is a document about justifying why the governmental agency does not solicit a "Full & Open Competition (FOC)" - why it uses sole source contracting
-    
-    
-Source:
+Natural Language Processing:
+https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html
 https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d#da9f
 https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html#sphx-glr-auto-examples-tutorials-run-doc2vec-lee-py
-https://fedbidspeed.com/cracking-the-code/
-http://acqnotes.com/acqnote/tasks/sole-soure-justification-and-approval
-https://www.targetgov.com/wp-content/uploads/2015/03/GloriaLarkin_Why-and-How-to-Use-SourcesSought_TargetGov.pdf
+https://scikit-learn.org/stable/modules/metrics.html
+
+
+Content Based Recommenders:
 https://developers.google.com/machine-learning/recommendation/content-based/basics
 https://www.offerzen.com/blog/how-to-build-a-content-based-recommender-system-for-your-product
-https://www.kdnuggets.com/2019/11/content-based-recommender-using-natural-language-processing-nlp.html
-https://scikit-learn.org/stable/modules/metrics.html
-https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/
+https://towardsdatascience.com/how-to-build-a-simple-recommender-system-in-python-375093c3fb7d
+http://recommender-systems.org/content-based-filtering/
+
+
+Information Retrieval Systems:
 https://medium.com/voice-tech-podcast/information-retrieval-using-boolean-query-in-python-e0ea9bf57f76
-
-
-
-
-Type of Set Aside:
- - the proportion of the acquisition set aside for small businesses
- - "any acquisition valued between $3,000 and $150,000 is reserved exclusively for small business concerns"
- source: http://acqnotes.com/acqnote/tasks/small-business-set-asides
  
  
- information retrieval systems
- Source - django:
- https://www.youtube.com/watch?v=F5mRW0jo-U4
- https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page
- https://docs.djangoproject.com/en/3.0/
- https://docs.djangoproject.com/en/dev/topics/db/queries/
- https://www.tutorialspoint.com/django/django_url_mapping.htm
+Django Application:
+https://www.youtube.com/watch?v=F5mRW0jo-U4
+https://docs.djangoproject.com/en/3.0/
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page
+https://www.tutorialspoint.com/django/django_url_mapping.htm
  
