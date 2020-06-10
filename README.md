@@ -27,16 +27,16 @@ Despite the challenges, when scrutinized by common sense, the system finds both 
 
   [Data Collection](001_dataGathering.ipynb)<br>
   [EDA](002_EDA.ipynb)<br>
-  [Text Preprocessing](005_gensim_topicmodeling.ipynb)<br>
-  [Recommender - Tf-Idf Vectorizer](004_recommender.ipynb)<br>
-  [Recommender - Doc2Vec](006_doc2vec.ipynb)
+  [Recommender - Tf-Idf Vectorizer](004_tfidf.ipynb)<br>
+  [Recommender - Doc2Vec](005_doc2vec.ipynb)<br>
+  [Keyword - Search](006_search_data_by_query.ipynb)
 
 ##### Data
   [Contract Notifications](https://drive.google.com/file/d/11yVkQKdPVIzUTCcrFdDiNEQk1kC4gFUl/view?usp=sharing)<br>
   [Tokenized Titles](https://drive.google.com/file/d/1AsKKAohC4Qc6S3GrdWEA64qF6lOvZkrh/view?usp=sharing)
 
 ##### Other
-  [Trained Doc2Vec Model](doc2vec_model)<br>
+  [Trained Doc2Vec Model](models/doc2vec_model)<br>
   [Notes](Notes.txt)
   
 ___
