@@ -49,5 +49,5 @@ def search_results(request):
 def similar_results(request):
     form = SimilarsForm(request.GET)
     base_document_idx = int(form['base_document_idx'].value())
-    matches = most_similar(base_document_idx, 10)
+    matches = most_similar(base_document_idx, 20)
     return render(request, 'search_results.html', {'matches': matches})
