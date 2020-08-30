@@ -38,6 +38,7 @@ Despite the challenges, when scrutinized by common sense, the system finds both 
 ##### Other
   [Trained Doc2Vec Model](models/doc2vec_model)<br>
   [Notes](Notes.txt)
+  [Presentation](Presentation.txt)
   
 ___
 #### Next Steps:
